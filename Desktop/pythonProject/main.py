@@ -14,6 +14,5 @@ def print_hi(name):
 if __name__ == '__main__':
 
     print('PyCharm_v1')
->>>>>>> 7359573 (commit v1)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
