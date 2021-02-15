@@ -13,7 +13,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    print('PyCharm21_main')
-
+    print('PyCharm_v1')
+>>>>>>> 7359573 (commit v1)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
